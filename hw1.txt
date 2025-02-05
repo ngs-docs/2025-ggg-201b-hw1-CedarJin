@@ -1,0 +1,69 @@
+which variants are present in which samples?
+
+SRR2584403_1 contains following variants:
+ecoli: g.1329520T>G	
+ecoli: g. 4141016C>A	
+
+SRR2584404_1 contains following variants:
+ecoli: g.238917G>T	
+ecoli: g.806308delATT	
+ecoli: g.1329520T>G	
+ecoli: g.4141016C>A
+
+SRR2584857_1 contains following variants:
+ecoli: g.920514T>C	
+ecoli: g.3931002A>C	
+ecoli: g.4141441C>T	
+ecoli: g.4202391T>G
+ecoli: g.4530767CACCCTAACCCT>CACCCTAACCCTAACCCT
+
+SRR2584405_1 contains following variants:
+ecoli: g.15382C>T
+ecoli: g.154497T>G
+ecoli: g.254101T>G
+ecoli: g.649522C>T
+ecoli: g.692265C>T
+ecoli: g.692268A>G
+ecoli: g.708118T>C
+ecoli: g.1176010T>G
+ecoli: g.1503866A>C
+ecoli: g.1680445A>T
+ecoli: g.1680446A>T
+ecoli: g.1733754A>T
+ecoli: g.1996109A>T
+ecoli: g.2000253A>T
+ecoli: g.2020126C>G
+ecoli: g.2103887ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG>ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG
+ecoli: g.2296329A>C
+ecoli: g.2330469A>T
+ecoli: g.2330472A>T
+ecoli: g.2416966C>T
+ecoli: g.2671373T>G
+ecoli: g.2671376C>A
+ecoli: g.2682710G>C
+ecoli: g.2682764C>T
+ecoli: g.3090762C>A
+ecoli: g.3090763T>G
+ecoli: g.3268057T>C
+ecoli: g.3351282C>T
+ecoli: g.3509753T>C
+ecoli: g.3568506T>G
+ecoli: g.3762120C>A
+ecoli: g.4029556G>T
+ecoli: g.4029559A>C
+ecoli: g.4192865G>A
+ecoli: g.4497049T>G
+ecoli: g.4503866T>C
+ecoli: g.4504217G>A
+ecoli: g.4504253G>A
+ecoli: g.4505396T>C
+ecoli: g.4505407G>A
+ecoli: g.4506070A>T
+ecoli: g.4593578C>T
+
+
+which variants are shared between two or more samples?
+
+The variants that are shared between two or more samples are:
+ecoli: g.4141016C>A → Present in SRR2584403_1 and SRR2584404_1
+ecoli: g.1329520T>G → Present in SRR2584403_1 and SRR2584404_1
